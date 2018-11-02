@@ -13,3 +13,5 @@
 [C#]03.데이터에 대하여 Part2 => (https://goo.gl/4FHNxg)
 
 [C#]04.문자열 다루기 => (https://goo.gl/q1dvX5)
+
+[C#]05.연산자는 ooo이다 Part1 => (https://goo.gl/qkapPe)
