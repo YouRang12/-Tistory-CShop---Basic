@@ -9,3 +9,5 @@
 [C#]01.C#시작하기 => (https://goo.gl/4R5mku)
 
 [C#]02.데이터에 대하여 Part1 => (https://goo.gl/4Vh9PW)
+
+[C#]03.데이터에 대하여 Part2 => (https://goo.gl/4FHNxg)
