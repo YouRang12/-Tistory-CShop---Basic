@@ -21,3 +21,5 @@
 [C#]07.코드의 흐름 알고가기 => (https://goo.gl/zmfGyc)
 
 [C#]08.메소드란 => (https://goo.gl/hbtNHn)
+
+[C#]09.클래스 꼭 알고가자 Part1 => (https://goo.gl/nhU4Nt)
