@@ -23,3 +23,5 @@
 [C#]08.메소드란 => (https://goo.gl/hbtNHn)
 
 [C#]09.클래스 꼭 알고가자 Part1 => (https://goo.gl/nhU4Nt)
+
+[C#]10.클래스 꼭 알고가자 Part2 => (https://goo.gl/JfBzcr)
