@@ -25,3 +25,5 @@
 [C#]09.클래스 꼭 알고가자 Part1 => (https://goo.gl/nhU4Nt)
 
 [C#]10.클래스 꼭 알고가자 Part2 => (https://goo.gl/JfBzcr)
+
+[C#]11.인터페이스는 약속이다 => (https://goo.gl/NuWbcR)
