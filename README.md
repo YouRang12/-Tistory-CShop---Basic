@@ -27,3 +27,5 @@
 [C#]10.클래스 꼭 알고가자 Part2 => (https://goo.gl/JfBzcr)
 
 [C#]11.인터페이스는 약속이다 => (https://goo.gl/NuWbcR)
+
+[C#]12.프로퍼티를 이용한 객체 초기화 방법 => 
