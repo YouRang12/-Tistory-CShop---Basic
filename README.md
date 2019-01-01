@@ -29,3 +29,5 @@
 [C#]11.인터페이스는 약속이다 => (https://goo.gl/NuWbcR)
 
 [C#]12.프로퍼티를 이용한 객체 초기화 방법 => (https://goo.gl/Y8P2zt)
+
+[C#]13.배열을 초기화하는 방법 => (https://goo.gl/vJFtEu)
