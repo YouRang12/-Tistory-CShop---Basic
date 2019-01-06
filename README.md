@@ -33,3 +33,5 @@
 [C#]13.배열을 초기화하는 방법 => (https://goo.gl/vJFtEu)
 
 [C#]14.컬렉션 맛보기 => (https://goo.gl/WYLS7B)
+
+[C#]15.일반화 프로그래밍 => (https://goo.gl/6hwTG5)
