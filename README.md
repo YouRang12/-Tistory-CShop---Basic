@@ -35,3 +35,5 @@
 [C#]14.컬렉션 맛보기 => (https://goo.gl/WYLS7B)
 
 [C#]15.일반화 프로그래밍 => (https://goo.gl/6hwTG5)
+
+[C#]16.예외처리하기 => (https://goo.gl/XR16BM)
