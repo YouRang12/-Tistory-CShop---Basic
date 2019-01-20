@@ -41,3 +41,5 @@
 [C#]17.대리자와 이벤트 => (https://goo.gl/NGspdb)
 
 [C#]18.람다식 너는 무엇이니 => (https://goo.gl/JMeCBs)
+
+[C#]19.LINQ와 데이터 => (https://goo.gl/CaQCk1)
