@@ -1,0 +1,10 @@
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\bin\Debug\10.Class2.exe.config
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\bin\Debug\10.Class2.exe
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\bin\Debug\10.Class2.pdb
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\obj\Debug\10.Class2.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\obj\Debug\10.Class2.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\obj\Debug\10.Class2.exe
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\obj\Debug\10.Class2.pdb
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\bin\Debug\System.ValueTuple.dll
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\bin\Debug\System.ValueTuple.xml
+C:\Tistory\C#\01.Basic\10.Class2\10.Class2\obj\Debug\10.Class2.csproj.CopyComplete

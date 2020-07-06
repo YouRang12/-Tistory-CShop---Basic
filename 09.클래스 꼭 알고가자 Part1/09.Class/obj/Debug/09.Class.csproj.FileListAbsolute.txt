@@ -1,0 +1,12 @@
+D:\Tistory\C#\01.Basic\09.Class\09.Class\bin\Debug\09.Class.exe
+D:\Tistory\C#\01.Basic\09.Class\09.Class\bin\Debug\09.Class.pdb
+D:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.csprojAssemblyReference.cache
+D:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.csproj.CoreCompileInputs.cache
+D:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.exe
+D:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.pdb
+C:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.exe
+C:\Tistory\C#\01.Basic\09.Class\09.Class\obj\Debug\09.Class.pdb
+C:\Tistory\C#\01.Basic\09.Class\09.Class\bin\Debug\09.Class.exe
+C:\Tistory\C#\01.Basic\09.Class\09.Class\bin\Debug\09.Class.pdb

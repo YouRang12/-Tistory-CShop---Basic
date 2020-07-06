@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\bin\Debug\17.Delegate.exe.config
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\bin\Debug\17.Delegate.exe
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\bin\Debug\17.Delegate.pdb
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\obj\Debug\17.Delegate.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\obj\Debug\17.Delegate.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\obj\Debug\17.Delegate.exe
+C:\Tistory\C#\01.Basic\17.Delegate\17.Delegate\obj\Debug\17.Delegate.pdb

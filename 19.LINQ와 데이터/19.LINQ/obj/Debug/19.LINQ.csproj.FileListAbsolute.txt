@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\bin\Debug\19.LINQ.exe.config
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\bin\Debug\19.LINQ.exe
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\bin\Debug\19.LINQ.pdb
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\obj\Debug\19.LINQ.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\obj\Debug\19.LINQ.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\obj\Debug\19.LINQ.exe
+C:\Tistory\C#\01.Basic\19.LINQ\19.LINQ\obj\Debug\19.LINQ.pdb

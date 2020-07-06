@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\bin\Debug\18.Lambda.exe.config
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\bin\Debug\18.Lambda.exe
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\bin\Debug\18.Lambda.pdb
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\obj\Debug\18.Lambda.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\obj\Debug\18.Lambda.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\obj\Debug\18.Lambda.exe
+C:\Tistory\C#\01.Basic\18.Lambda\18.Lambda\obj\Debug\18.Lambda.pdb

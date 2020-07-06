@@ -1,0 +1,6 @@
+C:\Users\wwwer\source\repos\16.Exception\16.Exception\bin\Debug\16.Exception.exe
+C:\Users\wwwer\source\repos\16.Exception\16.Exception\bin\Debug\16.Exception.pdb
+C:\Users\wwwer\source\repos\16.Exception\16.Exception\obj\Debug\16.Exception.csprojAssemblyReference.cache
+C:\Users\wwwer\source\repos\16.Exception\16.Exception\obj\Debug\16.Exception.csproj.CoreCompileInputs.cache
+C:\Users\wwwer\source\repos\16.Exception\16.Exception\obj\Debug\16.Exception.exe
+C:\Users\wwwer\source\repos\16.Exception\16.Exception\obj\Debug\16.Exception.pdb

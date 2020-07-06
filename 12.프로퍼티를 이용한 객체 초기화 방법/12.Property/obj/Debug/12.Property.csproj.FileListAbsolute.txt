@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\bin\Debug\12.Property.exe.config
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\bin\Debug\12.Property.exe
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\bin\Debug\12.Property.pdb
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\obj\Debug\12.Property.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\obj\Debug\12.Property.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\obj\Debug\12.Property.exe
+C:\Tistory\C#\01.Basic\09.Class\12.Property\12.Property\obj\Debug\12.Property.pdb

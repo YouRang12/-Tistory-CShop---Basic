@@ -1,0 +1,14 @@
+C:\Users\Elite\source\repos\11.Interface\11.Interface\bin\Debug\11.Interface.exe.config
+C:\Users\Elite\source\repos\11.Interface\11.Interface\bin\Debug\11.Interface.exe
+C:\Users\Elite\source\repos\11.Interface\11.Interface\bin\Debug\11.Interface.pdb
+C:\Users\Elite\source\repos\11.Interface\11.Interface\obj\Debug\11.Interface.csprojAssemblyReference.cache
+C:\Users\Elite\source\repos\11.Interface\11.Interface\obj\Debug\11.Interface.csproj.CoreCompileInputs.cache
+C:\Users\Elite\source\repos\11.Interface\11.Interface\obj\Debug\11.Interface.exe
+C:\Users\Elite\source\repos\11.Interface\11.Interface\obj\Debug\11.Interface.pdb
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\bin\Debug\11.Interface.exe.config
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\bin\Debug\11.Interface.exe
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\bin\Debug\11.Interface.pdb
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\obj\Debug\11.Interface.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\obj\Debug\11.Interface.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\obj\Debug\11.Interface.exe
+C:\Tistory\C#\01.Basic\11.Interface\11.Interface\obj\Debug\11.Interface.pdb

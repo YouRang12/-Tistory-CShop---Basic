@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe.config
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.exe
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\bin\Debug\01.HelloWorld.pdb
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.exe
+C:\Tistory\C#\01.Basic\01.HelloWorld\01.HelloWorld\obj\Debug\01.HelloWorld.pdb

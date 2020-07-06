@@ -1,0 +1,6 @@
+C:\Users\wwwer\source\repos\06.Operator2\06.Operator2\bin\Debug\06.Operator2.exe
+C:\Users\wwwer\source\repos\06.Operator2\06.Operator2\bin\Debug\06.Operator2.pdb
+C:\Users\wwwer\source\repos\06.Operator2\06.Operator2\obj\Debug\06.Operator2.csprojAssemblyReference.cache
+C:\Users\wwwer\source\repos\06.Operator2\06.Operator2\obj\Debug\06.Operator2.csproj.CoreCompileInputs.cache
+C:\Users\wwwer\source\repos\06.Operator2\06.Operator2\obj\Debug\06.Operator2.exe
+C:\Users\wwwer\source\repos\06.Operator2\06.Operator2\obj\Debug\06.Operator2.pdb

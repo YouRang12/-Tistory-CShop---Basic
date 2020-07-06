@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\04.String\04.String\obj\Debug\04.String.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\04.String\04.String\obj\Debug\04.String.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\04.String\04.String\bin\Debug\04.String.exe.config
+C:\Tistory\C#\01.Basic\04.String\04.String\bin\Debug\04.String.exe
+C:\Tistory\C#\01.Basic\04.String\04.String\bin\Debug\04.String.pdb
+C:\Tistory\C#\01.Basic\04.String\04.String\obj\Debug\04.String.exe
+C:\Tistory\C#\01.Basic\04.String\04.String\obj\Debug\04.String.pdb

@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\bin\Debug\07.IfWhileSwitch.exe.config
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\bin\Debug\07.IfWhileSwitch.exe
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\bin\Debug\07.IfWhileSwitch.pdb
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\obj\Debug\07.IfWhileSwitch.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\obj\Debug\07.IfWhileSwitch.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\obj\Debug\07.IfWhileSwitch.exe
+C:\Tistory\C#\01.Basic\07.IfWhileSwitch\07.IfWhileSwitch\obj\Debug\07.IfWhileSwitch.pdb

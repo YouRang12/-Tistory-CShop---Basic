@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\bin\Debug\20.ReflectionAndAttribute.exe.config
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\bin\Debug\20.ReflectionAndAttribute.exe
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\bin\Debug\20.ReflectionAndAttribute.pdb
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\obj\Debug\20.ReflectionAndAttribute.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\obj\Debug\20.ReflectionAndAttribute.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\obj\Debug\20.ReflectionAndAttribute.exe
+C:\Users\Admin\source\repos\20.ReflectionAndAttribute\20.ReflectionAndAttribute\obj\Debug\20.ReflectionAndAttribute.pdb

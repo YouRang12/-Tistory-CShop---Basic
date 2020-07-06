@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\bin\Debug\15.Generic.exe.config
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\bin\Debug\15.Generic.exe
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\bin\Debug\15.Generic.pdb
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\obj\Debug\15.Generic.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\obj\Debug\15.Generic.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\obj\Debug\15.Generic.exe
+C:\Tistory\C#\01.Basic\15.Generic\15.Generic\obj\Debug\15.Generic.pdb

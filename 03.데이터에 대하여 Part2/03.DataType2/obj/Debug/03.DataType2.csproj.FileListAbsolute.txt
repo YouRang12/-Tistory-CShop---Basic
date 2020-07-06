@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\bin\Debug\03.DataType2.exe.config
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\bin\Debug\03.DataType2.exe
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\bin\Debug\03.DataType2.pdb
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\obj\Debug\03.DataType2.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\obj\Debug\03.DataType2.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\obj\Debug\03.DataType2.exe
+C:\Tistory\C#\01.Basic\03.DataType2\03.DataType2\obj\Debug\03.DataType2.pdb

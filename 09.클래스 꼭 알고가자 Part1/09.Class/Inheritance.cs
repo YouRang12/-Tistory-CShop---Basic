@@ -1,0 +1,62 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+//namespace _09.Class
+//{
+//    class Base
+//    {
+//        protected string Name;
+//        public Base(string Name)
+//        {
+//            this.Name = Name;
+//            Console.WriteLine($"{this.Name}.Base()");
+//        }
+
+//        ~Base()
+//        {
+//            Console.WriteLine($"{this.Name}.~Base()");
+//        }
+
+//        public void BaseMethod()
+//        {
+//            Console.WriteLine($"{Name}.BaseMethod()");
+//        }
+//    }
+
+//    // Base Class를 상속받음
+//    class Derived : Base
+//    {
+//        // Base(string Name)을 호출
+//        public Derived(string Name) : base(Name)
+//        {
+//            Console.WriteLine($"{this.Name}.Derived()");
+//        }
+
+//        ~Derived()
+//        {
+//            Console.WriteLine($"{this.Name}.~Derived()");
+//        }
+
+//        public void DerivedMethod()
+//        {
+//            Console.WriteLine($"{Name}.DerivedMethod()");
+//        }
+//    }
+
+//    class Inheritance
+//    {
+//        static void Main(string[] args)
+//        {
+//            Base a = new Base("a");
+//            a.BaseMethod();
+
+//            Console.WriteLine("-------------");
+
+//            Derived b = new Derived("b");
+//            b.BaseMethod();
+//            b.DerivedMethod();
+//        }
+//    }
+//}

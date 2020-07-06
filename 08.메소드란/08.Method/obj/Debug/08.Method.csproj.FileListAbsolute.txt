@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\08.Method\08.Method\bin\Debug\08.Method.exe.config
+C:\Tistory\C#\01.Basic\08.Method\08.Method\bin\Debug\08.Method.exe
+C:\Tistory\C#\01.Basic\08.Method\08.Method\bin\Debug\08.Method.pdb
+C:\Tistory\C#\01.Basic\08.Method\08.Method\obj\Debug\08.Method.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\08.Method\08.Method\obj\Debug\08.Method.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\08.Method\08.Method\obj\Debug\08.Method.exe
+C:\Tistory\C#\01.Basic\08.Method\08.Method\obj\Debug\08.Method.pdb

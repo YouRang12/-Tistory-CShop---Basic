@@ -1,0 +1,6 @@
+D:\Tistory\C#\01.Basic\05.Operator\05.Operator\bin\Debug\05.Operator.exe
+D:\Tistory\C#\01.Basic\05.Operator\05.Operator\bin\Debug\05.Operator.pdb
+D:\Tistory\C#\01.Basic\05.Operator\05.Operator\obj\Debug\05.Operator.csprojAssemblyReference.cache
+D:\Tistory\C#\01.Basic\05.Operator\05.Operator\obj\Debug\05.Operator.csproj.CoreCompileInputs.cache
+D:\Tistory\C#\01.Basic\05.Operator\05.Operator\obj\Debug\05.Operator.exe
+D:\Tistory\C#\01.Basic\05.Operator\05.Operator\obj\Debug\05.Operator.pdb

@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\21.Network\21.Network\bin\Debug\21.Network.exe.config
+C:\Tistory\C#\01.Basic\21.Network\21.Network\bin\Debug\21.Network.exe
+C:\Tistory\C#\01.Basic\21.Network\21.Network\bin\Debug\21.Network.pdb
+C:\Tistory\C#\01.Basic\21.Network\21.Network\obj\Debug\21.Network.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\21.Network\21.Network\obj\Debug\21.Network.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\21.Network\21.Network\obj\Debug\21.Network.exe
+C:\Tistory\C#\01.Basic\21.Network\21.Network\obj\Debug\21.Network.pdb

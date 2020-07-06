@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\bin\Debug\14.Collection.exe.config
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\bin\Debug\14.Collection.exe
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\bin\Debug\14.Collection.pdb
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\obj\Debug\14.Collection.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\obj\Debug\14.Collection.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\obj\Debug\14.Collection.exe
+C:\Tistory\C#\01.Basic\14.Collection\14.Collection\obj\Debug\14.Collection.pdb

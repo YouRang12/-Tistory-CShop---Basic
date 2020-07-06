@@ -1,0 +1,7 @@
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\obj\Debug\02.DataType.csprojAssemblyReference.cache
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\obj\Debug\02.DataType.csproj.CoreCompileInputs.cache
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\bin\Debug\02.DataType.exe.config
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\bin\Debug\02.DataType.exe
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\bin\Debug\02.DataType.pdb
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\obj\Debug\02.DataType.exe
+C:\Tistory\C#\01.Basic\02.DataType\02.DataType\obj\Debug\02.DataType.pdb

@@ -1,0 +1,6 @@
+D:\Tistory\C#\01.Basic\13.Array\13.Array\bin\Debug\13.Array.exe
+D:\Tistory\C#\01.Basic\13.Array\13.Array\bin\Debug\13.Array.pdb
+D:\Tistory\C#\01.Basic\13.Array\13.Array\obj\Debug\13.Array.csprojAssemblyReference.cache
+D:\Tistory\C#\01.Basic\13.Array\13.Array\obj\Debug\13.Array.csproj.CoreCompileInputs.cache
+D:\Tistory\C#\01.Basic\13.Array\13.Array\obj\Debug\13.Array.exe
+D:\Tistory\C#\01.Basic\13.Array\13.Array\obj\Debug\13.Array.pdb
